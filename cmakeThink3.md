@@ -59,6 +59,5 @@ int main()
 >
 > target_link_libraries(main fun)
 
-if you want to link static library,`target_link_libraries(main libfun.a)
+if you want to link static library,`target_link_libraries(main libfun.a)`
 
-`
